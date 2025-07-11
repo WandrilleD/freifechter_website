@@ -30,22 +30,23 @@ jobs:
 
         # now we render
       - name: Render 
-          uses: quarto-dev/quarto-actions/render@v2
-          with:
-            to: html
-      - name: Render-en
-          uses: quarto-dev/quarto-actions/render@v2
-          env:
-            QUARTO_PROFILE: en
-          with:
-            to: html
-      - name: Render-de
-          uses: quarto-dev/quarto-actions/render@v2
-          env:
-            QUARTO_PROFILE: de
-          with:
-            to: html
+        uses: quarto-dev/quarto-actions/render@v2
+        with:
+          to: html
 
+      - name: Render-en
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: en
+        with:
+          to: html
+
+      - name: Render-de
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: de
+        with:
+          to: html
 
         # finally we publish
       - name: Publish
