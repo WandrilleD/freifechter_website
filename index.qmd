@@ -82,3 +82,32 @@ Historical European Martial Arts is a blanket term that unites a broad variety o
 ::: {.content-visible when-profile="de"}
 Historical European Martial Arts ist ein Sammelbegriff, der verschiedene in Europa praktizierte Kampfkünste unter sich vereint. Dazugezählt werden bewaffnete wie auch unbewaffnete Kampfsysteme. Inspiriert wird die heutige Fechtpraxis von Handschriften, gedruckten Quellen, sowie klassischer Fechttheorie und der Ausrüstung, welche vergleichbare Eigenschaften haben mit den Waffen die im Nahkampf verwendet wurden. Betrachtet man systematische Anleitungen für den Nahkampf, findet man Schriften, welche bis ins 14. Jhd. Zurück datiert werden.
 :::
+
+
+
+::: {.content-visible when-profile="en"}
+## Contact us
+
+Interested in fencing? Have a question?
+
+Please contact us at [basel.freifecther@gmail.com](mailto:basel.freifecther@gmail.com)
+
+---
+
+We hope to cross blades with you soon!
+
+:::
+::: {.content-visible when-profile="de"}
+
+## Kontakt
+
+Interessieren Sie sich für Fechten? Haben Sie eine Frage?
+
+Kontaktieren Sie uns unter [basel.freifecther@gmail.com](mailto:basel.freifecther@gmail.com)
+
+---
+
+Auf dass sich unsere Klingen bald kreuzen mögen!
+
+
+:::
