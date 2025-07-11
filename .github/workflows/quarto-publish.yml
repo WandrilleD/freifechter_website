@@ -2,9 +2,9 @@ name: Quarto Publish
 
 # the on statement tells github actions whnen to run the action
 on:
-  # pushing to main
+  # pushing to master
   push:
-    branches: main
+    branches: master
     
 # set permissions so the actions in the workflow can write files to your repository
 permissions: write-all
