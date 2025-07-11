@@ -1,0 +1,57 @@
+name: Quarto Publish
+
+# the on statement tells github actions whnen to run the action
+on:
+  # pushing to main
+  push:
+    branches: main
+    
+# set permissions so the actions in the workflow can write files to your repository
+permissions: write-all
+
+# define the job
+jobs:
+  # we name it quarto-deploy
+  quarto-deploy:
+    # define the virtual environment
+    runs-on: ubuntu-latest
+    # the steps are the individual actions that are needed to complete the job
+
+    steps:
+        
+        # first step is check out the repository so we have access to the files
+        # inside the repository in our virtual environment
+      - name: Check out repository
+        uses: actions/checkout@v4
+        
+        # now we install quarto in the environment
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+        # now we render
+      - name: Render 
+          uses: quarto-dev/quarto-actions/render@v2
+          with:
+            to: html
+      - name: Render-en
+          uses: quarto-dev/quarto-actions/render@v2
+          env:
+            QUARTO_PROFILE: en
+          with:
+            to: html
+      - name: Render-de
+          uses: quarto-dev/quarto-actions/render@v2
+          env:
+            QUARTO_PROFILE: de
+          with:
+            to: html
+
+
+        # finally we publish
+      - name: Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+          render: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
