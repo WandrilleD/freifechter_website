@@ -1,0 +1,20 @@
+project:
+  output-dir: _site/
+  type: website
+  
+  
+website:
+  title: "Freifecther Basel"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Hello!
+      - href: gallery.qmd
+        text: Gallery
+      - href: basilisk.qmd
+        text: Basilisk Challenge
+    right:
+      - href: de/index.html
+        text: Deutsch
+      - href: index.html
+        text: English

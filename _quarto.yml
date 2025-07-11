@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Freifecther Basel"
+  favicon: assets/LOGO_SWISSHEMA.png
+  page-navigation: true
+  navbar:
+    right:
+      - icon: facebook
+        href: "https://www.facebook.com/freifechterbasel/"
+        aria-label: Facebook  
+  
+profile: 
+  group: 
+    - [en,de]
+
+pre-render: generate-gallery.ts
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-location: left
+
+

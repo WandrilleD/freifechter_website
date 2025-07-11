@@ -1,0 +1,26 @@
+---
+title: ""
+format: html
+lightbox: true
+---
+
+::: {.column-margin}
+![](assets/LOGO_SWISSHEMA.png){width=80%}
+:::
+
+
+::: {layout-ncol=3}
+
+![](assets/gallery/20250614_125830.jpg){.lightbox group="gallery" }
+
+![](assets/gallery/20250614_125938(0).jpg){.lightbox group="gallery"}
+
+![](assets/gallery/20250614_125938 (1).jpg){.lightbox group="gallery"}
+
+![](assets/gallery/20250614_125938.jpg){.lightbox group="gallery"}
+
+![](assets/gallery/20250614_170543.jpg){.lightbox group="gallery"}
+
+:::
+
+
