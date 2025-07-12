@@ -3,9 +3,9 @@ title: ""
 format: html
 lightbox: true
 ---
-
 ::: {.column-margin}
-![](assets/LOGO_SWISSHEMA.png){width=80%}
+![](assets/Basilisk.png){width=120%}
+![](assets/LOGO_SWISSHEMA.png){width=60%  fig-align="center"}
 :::
 
 
