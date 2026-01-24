@@ -10,6 +10,9 @@ website:
       - icon: facebook
         href: "https://www.facebook.com/freifechterbasel/"
         aria-label: Facebook  
+      - icon: instagram
+        href: "https://www.instagram.com/freifechter_basel/"
+        aria-label: Instagram  
   
 profile: 
   group: 
