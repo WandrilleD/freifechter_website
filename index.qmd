@@ -53,21 +53,21 @@ Wir sind ein Verein, der ein freundliches und soziales Lernumfeld bietet für al
 ## Training Schedule
 
 ::: {.callout-warning}
-During the summer time halls are closed and we train in nearby parks when the weather allows. 
+During the summer time and holidays time the halls are closed and we train in nearby parks when the weather allows. 
 Please contact us if you'd like to join!
 :::
 
-+------------------------------+-------------------------+
-| Mondays                      |  Mondays                | 
-+==============================+=========================+
-| 18:00-19:00 and 21:00-22:00  | 20:00-21:00             |
-+------------------------------+-------------------------+
-|   Sidearm class              | Longsword class         |
-+------------------------------+-------------------------+
-|  Strassburgerallee 65        |  Strassburgerallee 65   |
-|  4055 Basel                  |  4055 Basel             |
-|  Isaak Iselin Turnhalle      |  Isaak Iselin Turnhalle |
-+------------------------------+-------------------------+
++--------------------------------+
+| Mondays                        |
++================================+
+| 18:00-20:00                    |
++--------------------------------+
+|   Longsword class              |
++--------------------------------+
+|  Kohlengersgasse 11            |
+|  4055 Basel                    |
+|  Beruffachschule Turnhalle UG1 |
++--------------------------------+
 
 :::
 
@@ -79,17 +79,17 @@ Im Sommer sind die Turnhallen geschlossen und wir trainieren bei schönem Wetter
 Bitte kontaktiere uns, wenn du mitmachen möchtest!
 :::
 
-+------------------------------+-------------------------+
-| Montags                      |  Montags                | 
-+==============================+=========================+
-| 18:00-19:00 and 21:00-22:00  | 20:00-21:00             |
-+------------------------------+-------------------------+
-|   Beiwaffen                  | Langschwert             |
-+------------------------------+-------------------------+
-|  Strassburgerallee 65        |  Strassburgerallee 65   |
-|  4055 Basel                  |  4055 Basel             |
-|  Isaak Iselin Turnhalle      |  Isaak Iselin Turnhalle |
-+------------------------------+-------------------------+
++--------------------------------+
+| Montags                        |
++================================+
+| 18:00-20:00                    |
++--------------------------------+
+|   Langschwert                  |
++--------------------------------+
+|  Kohlenbergsgasse 11           |
+|  4055 Basel                    |
+|  Beruffachschule Turnhalle UG1 |
++--------------------------------+
 
 :::
 

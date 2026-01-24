@@ -8,17 +8,12 @@ lightbox: true
 ![](assets/LOGO_SWISSHEMA.png){width=60%  fig-align="center"}
 :::
 
+::: {.content-visible when-profile="en"}
 Each year around May/June we organise a HEMA Tournament in Basel called the Basilisk Challenge.
+:::
 
-## 2025
+::: {.content-visible when-profile="de"}
+Jedes Jahr im Mai/Juni veranstalten wir in Basel ein HEMA-Turnier namens Basilisk Challenge.
+:::
 
-... pics ...
 
-
-## 2024
-
-... pics ...
-
-## 2023
-
-... pics ...
