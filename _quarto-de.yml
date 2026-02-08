@@ -1,5 +1,5 @@
 project:
-  output-dir: _site/de
+  output-dir: _site/
   type: website
   
 
@@ -16,5 +16,5 @@ website:
     right:
       - href: index.html
         text: Deutsch
-      - href: ../index.html
+      - href: en/index.html
         text: English

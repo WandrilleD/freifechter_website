@@ -1,5 +1,5 @@
 project:
-  output-dir: _site/
+  output-dir: _site/en
   type: website
   
   
@@ -14,7 +14,7 @@ website:
       - href: basilisk.qmd
         text: Basilisk Challenge
     right:
-      - href: de/index.html
+      - href: ../index.html
         text: Deutsch
       - href: index.html
         text: English
