@@ -15,6 +15,11 @@ format: html
 We are a historical fencing club based in Basel focusing mainly, but not only, on late middle-age and early renaissance fencing.
 :::
 
+::: {.content-visible when-profile="fr"}
+Nous sommes un club d'escrime historique, basés à Basel.
+Nous nous concentrons majoritairement, mais pas uniquement, sur l'escrime de la fin du moyen-âge et du début de la renaissance.
+:::
+
 ::: {.content-visible when-profile="de"}
 Wir sind ein Basler historischer Fechtclub, dessen Schwerpunkt hauptsächlich, aber nicht ausschließlich, auf Fechten im Spätmittelalter und in der Frührenaissance.
 :::
@@ -35,6 +40,30 @@ Please contact us if you'd like to join!
 | 18:00-20:00                    |
 +--------------------------------+
 |   Longsword class              |
++--------------------------------+
+|  Kohlengersgasse 11            |
+|  4055 Basel                    |
+|  Beruffachschule Turnhalle UG1 |
++--------------------------------+
+
+:::
+
+
+::: {.content-visible when-profile="fr"}
+## Entraînements
+
+::: {.callout-warning}
+Durant l'été et les vacances les gymnases sont fermés et nous nous entraînons dans les parcs publics si la météo le permet.
+
+N'hésitez pas à nous contacter si vous voulez nous rejoindre!
+:::
+
++--------------------------------+
+| Lundi                          |
++================================+
+| 18:00-20:00                    |
++--------------------------------+
+|   Epée longue                  |
 +--------------------------------+
 |  Kohlengersgasse 11            |
 |  4055 Basel                    |
@@ -69,6 +98,11 @@ Bitte kontaktiere uns, wenn du mitmachen möchtest!
 ::: {.content-visible when-profile="en"}
 ## Our Club
 :::
+
+::: {.content-visible when-profile="fr"}
+## Notre club
+:::
+
 ::: {.content-visible when-profile="de"}
 ## Unser Verein
 :::
@@ -85,6 +119,19 @@ We are a club that offers a social and friendly learning environment for anyone 
 
 :::
 
+::: {.content-visible when-profile="fr"}
+
+<p align="justify">
+Notre association souhaite offrir un cadre amical et positif pour l'apprentissage des art-martiaux de l'Europe médiévale et moderne. 
+Notre structure associative démocratique acceuille tout le monde, indépendamment de leur âge, leur genre, leur origine, ou leur compétence.
+
+Nos connaissances et compétences actuelles recouvrent de nombreuses armes et techniques non-armées, même si, pour des raisons de popularité, nous nous concentrons actuellement majoritairement sur le manienment de l'épée longue selon la tradition germanique.
+
+</p>
+
+:::
+
+
 ::: {.content-visible when-profile="de"}
 
 <p align="justify">
@@ -97,17 +144,21 @@ Wir sind ein Verein, der ein freundliches und soziales Lernumfeld bietet für al
 ## HEMA
 
 
-
-
-
-
-
 ::: {.content-visible when-profile="en"}
 <p align="justify">
 
 Historical European Martial Arts is a blanket term that unites a broad variety of martial arts that were and still are practiced in Europe. It includes both armed and unarmed fighting systems. Our current fencing practice is inspired by historical manuscripts, printed sources and equipment that seeks to have comparable qualities to weapons used in close quarter combat. Considering systematic instructions for close combat, the sources reach as far back as the 14th century.
 </p>
 :::
+
+::: {.content-visible when-profile="fr"}
+<p align="justify">
+Les Arts Martiaux Historiques Européens (AMHE, ou HEMA en anglais) recouvrent un large panel de pratiques martiales qui fûrent, et parfois sont encore, pratiquées en Europe.
+Ces pratiques incluent des systèmes avec ou sans armes.
+Notre pratique est inspirée par les sources historiques, manuscrites ou imprimées, ainsi que par l'équipement qui tend à reproduire les armes et armures de d'autrefois.
+</p>
+:::
+
 ::: {.content-visible when-profile="de"}
 <p align="justify">
 Historical European Martial Arts ist ein Sammelbegriff, der verschiedene in Europa praktizierte Kampfkünste unter sich vereint. Dazugezählt werden bewaffnete wie auch unbewaffnete Kampfsysteme. Inspiriert wird die heutige Fechtpraxis von Handschriften, gedruckten Quellen, sowie klassischer Fechttheorie und der Ausrüstung, welche vergleichbare Eigenschaften haben mit den Waffen die im Nahkampf verwendet wurden. Betrachtet man systematische Anleitungen für den Nahkampf, findet man Schriften, welche bis ins 14. Jhd. Zurück datiert werden.
@@ -128,6 +179,20 @@ Please contact us at [basel.freifechter@gmail.com](mailto:basel.freifechter@gmai
 We hope to cross blades with you soon!
 
 :::
+
+::: {.content-visible when-profile="fr"}
+## Contactez nous
+
+Vous voulez essayer ? nous rejoindre ? Vous avez une question ?
+
+Contactez nous à [basel.freifechter@gmail.com](mailto:basel.freifechter@gmail.com)
+
+---
+
+Au plaisir de croiser le fer avec vous!
+
+:::
+
 ::: {.content-visible when-profile="de"}
 
 ## Kontakt

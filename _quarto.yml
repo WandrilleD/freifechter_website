@@ -16,7 +16,7 @@ website:
   
 profile: 
   group: 
-    - [de,en]
+    - [de,en,fr]
 
 pre-render: generate-gallery.ts
 

@@ -12,6 +12,11 @@ lightbox: true
 Each year around May/June we organise a HEMA Tournament in Basel called the Basilisk Challenge.
 :::
 
+::: {.content-visible when-profile="en"}
+Chaque année en mai/juin nous organisons un tournois d'AMHE à Basel : le Basilisk Challenge.
+:::
+
+
 ::: {.content-visible when-profile="de"}
 Jedes Jahr im Mai/Juni veranstalten wir in Basel ein HEMA-Turnier namens Basilisk Challenge.
 :::

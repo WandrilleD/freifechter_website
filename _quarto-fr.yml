@@ -1,5 +1,5 @@
 project:
-  output-dir: _site/en
+  output-dir: _site/fr
   type: website
   
   
@@ -8,15 +8,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Hello!
+        text: Bienvenue!
       - href: gallery.qmd
-        text: Gallery
+        text: Gallerie
       - href: basilisk.qmd
         text: Basilisk Challenge
     right:
       - href: ../index.html
         text: Deutsch
-      - href: ../fr/index.html
-        text: Français
       - href: index.html
+        text: Français
+      - href: ../en/index.html
         text: English

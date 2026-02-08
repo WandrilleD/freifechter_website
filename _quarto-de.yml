@@ -16,5 +16,7 @@ website:
     right:
       - href: index.html
         text: Deutsch
+      - href: fr/index.html
+        text: Français
       - href: en/index.html
         text: English
