@@ -22,34 +22,6 @@ Wir sind ein Basler historischer Fechtclub, dessen Schwerpunkt hauptsächlich, a
 :::
 
 ::: {.content-visible when-profile="en"}
-## Our Club
-:::
-::: {.content-visible when-profile="de"}
-## Unser Verein
-:::
-
-::: {.img-float}
-![](assets/Durer.png){style="float: left; margin: 25px;" width=50%}
-:::
-
-::: {.content-visible when-profile="en"}
-
-<p align="justify">
-We are a club that offers a social and friendly learning environment for anyone interested in the medieval, renaissance and early modern martial arts of Europe. Our democratic club structures allows for the integration of any person regardless of age, gender, race or ability. Our competencies encompass most weapon classes and unarmed combat. Due to popular request we have been specializing in swords, both single- and twohanded ones.
-</p>
-
-:::
-
-::: {.content-visible when-profile="de"}
-
-<p align="justify">
-Wir sind ein Verein, der ein freundliches und soziales Lernumfeld bietet für alle, die an den mittelalterlichen und neuzeitlichen Kampfkünsten Europas interessiert sind. Unsere demokratische Clubstruktur, sowie unsere persönliche Betreuung ermöglichen die Integration von Menschen jeglichen Alters, Geschlechts, Hautfarbe oder sonstiger Konstitution. Unser Kompetenzbereich umfasst die meisten Waffengattungen, sowie den unbewaffneten Kampf. Aufgrund der aktuellen Nachfrage spezialisieren wir uns auf Schwerter, ob ein- oder zweihändig geführt.
-</p>
-:::
-
-
-
-::: {.content-visible when-profile="en"}
 ## Training Schedule
 
 ::: {.callout-warning}
@@ -92,6 +64,34 @@ Bitte kontaktiere uns, wenn du mitmachen möchtest!
 +--------------------------------+
 
 :::
+
+
+::: {.content-visible when-profile="en"}
+## Our Club
+:::
+::: {.content-visible when-profile="de"}
+## Unser Verein
+:::
+
+::: {.img-float}
+![](assets/Durer.png){style="float: left; margin: 25px;" width=50%}
+:::
+
+::: {.content-visible when-profile="en"}
+
+<p align="justify">
+We are a club that offers a social and friendly learning environment for anyone interested in the medieval, renaissance and early modern martial arts of Europe. Our democratic club structures allows for the integration of any person regardless of age, gender, race or ability. Our competencies encompass most weapon classes and unarmed combat. Due to popular request we have been specializing in swords, both single- and twohanded ones.
+</p>
+
+:::
+
+::: {.content-visible when-profile="de"}
+
+<p align="justify">
+Wir sind ein Verein, der ein freundliches und soziales Lernumfeld bietet für alle, die an den mittelalterlichen und neuzeitlichen Kampfkünsten Europas interessiert sind. Unsere demokratische Clubstruktur, sowie unsere persönliche Betreuung ermöglichen die Integration von Menschen jeglichen Alters, Geschlechts, Hautfarbe oder sonstiger Konstitution. Unser Kompetenzbereich umfasst die meisten Waffengattungen, sowie den unbewaffneten Kampf. Aufgrund der aktuellen Nachfrage spezialisieren wir uns auf Schwerter, ob ein- oder zweihändig geführt.
+</p>
+:::
+
 
 
 ## HEMA
