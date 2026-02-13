@@ -55,6 +55,10 @@ jobs:
         with:
           to: html
 
+        # add CNAME for redirection to website
+      - name: add CNAME
+        run: cat "www.freifechter.ch" > _site/CNAME
+
         # finally we publish
       - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
