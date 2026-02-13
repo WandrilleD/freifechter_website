@@ -57,7 +57,7 @@ jobs:
 
         # add CNAME for redirection to website
       - name: add CNAME
-        run: cat "www.freifechter.ch" > _site/CNAME
+        run: echo www.freifechter.ch > _site/CNAME
 
         # finally we publish
       - name: Publish
