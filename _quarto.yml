@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Freifecther Basel"
+  title: "Freifechter Basel"
   favicon: assets/LOGO_SWISSHEMA.png
   page-navigation: true
   navbar:
