@@ -4,7 +4,7 @@ project:
   
 
 website:
-  title: "Freifecther Basel"
+  title: "Freifechter Basel"
   navbar:
     left:
       - href: index.qmd
