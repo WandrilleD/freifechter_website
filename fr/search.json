@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "basilisk.html",
-    "href": "basilisk.html",
-    "title": "Basilisk Challenge",
-    "section": "",
-    "text": "Chaque année en mai/juin nous organisons un tournois d’AMHE à Basel : le Basilisk Challenge."
-  },
-  {
     "objectID": "index.html#entraînements",
     "href": "index.html#entraînements",
     "title": "Freifechter Basel",
     "section": "Entraînements",
-    "text": "Entraînements\n\n\n\n\n\n\nWarning\n\n\n\nDurant l’été et les vacances les gymnases sont fermés et nous nous entraînons dans les parcs publics si la météo le permet.\nN’hésitez pas à nous contacter si vous voulez nous rejoindre!\n\n\n\n\n\n\n\n\nLundi\n\n\n\n\n18:00-20:00\n\n\nEpée longue\n\n\nKohlenberggasse 11 4055 Basel Beruffachschule Turnhalle UG1"
+    "text": "Entraînements\n\n\n\n\n\n\nWarning\n\n\n\nDurant l’été et les vacances les gymnases sont fermés et nous nous entraînons dans les parcs publics si la météo le permet.\nN’hésitez pas à nous contacter si vous voulez nous rejoindre!\n\n\n\n\n\n\n\n\n\n\n\nJour\nHeure\nLieu\nActivité\n\n\n\n\nLundis\n18:15-20:00\nTheaterstrasse 12 4051 Basel Turnhalle oben\nEpée longue\n\n\nMardis\n20:00-21:45\nTheaterstrasse 12 4051 Basel Turnhalle unten\nAssauts libres\n\n\nMercredis\n18:00-19:30\nKohlenberggasse 114055 BaselBeruffachschule Turnhalle UG1\nRapière\n\n\nMercredis\n19:30-21:00\nKohlenberggasse 114055 BaselBeruffachschule Turnhalle UG1\nEpée longue\n\n\nMercredis\n21:00-22:00\nKohlenberggasse 114055 BaselBeruffachschule Turnhalle UG1\nAssauts"
   },
   {
     "objectID": "index.html#notre-club",
@@ -33,5 +26,12 @@
     "title": "Freifechter Basel",
     "section": "Contactez nous",
     "text": "Contactez nous\nVous voulez essayer ? nous rejoindre ? Vous avez une question ?\nContactez nous à basel.freifechter@gmail.com\n\nAu plaisir de croiser le fer avec vous!"
+  },
+  {
+    "objectID": "basilisk.html",
+    "href": "basilisk.html",
+    "title": "Basilisk Challenge",
+    "section": "",
+    "text": "Chaque année en mai/juin nous organisons un tournois d’AMHE à Basel : le Basilisk Challenge."
   }
 ]
