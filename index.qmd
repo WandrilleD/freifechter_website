@@ -22,6 +22,7 @@ format: html
 ::: {.callout-warning}
 During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
 :::
+
 ::: {.content-visible when-profile="fr"}
 ## Entraînements
 +------------+-------------+-------------------------------------------------------------------+-----------------+
@@ -40,6 +41,7 @@ During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00
 ::: {.callout-warning}
 Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le mercredi de 18h00 à 20h00 au Nonnenweg 36.
 :::
+
 ::: {.content-visible when-profile="de"}
 ## Wochentrainings
 +------------+-------------+-------------------------------------------------------------------+-----------------+
