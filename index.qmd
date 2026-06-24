@@ -34,10 +34,6 @@ During summer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00
 
 ## Entraînements
 
-::: {.callout-warning}
-Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le mercredi de 18h00 à 20h00 au Nonnenweg 36.
-:::
-
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Jour       | Heure       | Lieu                                                              | Activité        |
 +============+=============+===================================================================+=================+
@@ -52,16 +48,17 @@ Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le 
 | Mercredis  | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Assauts         |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 
+::: {.callout-warning}
+Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le mercredi de 18h00 à 20h00 au Nonnenweg 36.
+:::
+
+
 
 :::
 
 ::: {.content-visible when-profile="de"}
 
 ## Wochentrainings
-
-::: {.callout-warning}
-Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch von 18:00 bis 20:00 Uhr im Nonnenweg 36.
-:::
 
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Tag        | Uhr         | Ort                                                               | Was             |
@@ -76,6 +73,10 @@ Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch 
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Mittwochs  | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Sparring        |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
+
+::: {.callout-warning}
+Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch von 18:00 bis 20:00 Uhr im Nonnenweg 36.
+:::
 
 
 
