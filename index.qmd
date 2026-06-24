@@ -9,7 +9,7 @@ format: html
 ::: {.callout-warning}
 During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
 :::
-### Training times during the sommer semester April-October
+
 
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Day        | Hour        | Where                                                             | What            |
@@ -102,82 +102,6 @@ Nous nous concentrons majoritairement, mais pas uniquement, sur l'escrime de la 
 ::: {.content-visible when-profile="de"}
 Wir sind ein Basler historischer Fechtclub, dessen Schwerpunkt hauptsächlich, aber nicht ausschließlich, auf Fechten im Spätmittelalter und in der Frührenaissance.
 :::
-
-:::
-
-::: {.content-visible when-profile="en"}
-## Training Schedule
-
-::: {.callout-warning}
-During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
-:::
-### Training times during the sommer semester April-October
-
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Day        | Hour        | Where                                                             | What            |
-+============+=============+===================================================================+=================+
-| Mondays    | 18:15-20:00 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle oben               | Longsword class |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Tuesdays   | 20:00-21:45 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle unten              | Open sparring   |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Wednesdays | 18:00-19:30 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Rapier class    |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Wednesdays | 19:30-21:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Longsword class |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Wednesdays | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Sparring        |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-
-
-:::
-
-
-::: {.content-visible when-profile="fr"}
-## Entraînements
-
-::: {.callout-warning}
-Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le mercredi de 18h00 à 20h00 au Nonnenweg 36.
-:::
-
-
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Jour       | Heure       | Lieu                                                              | Activité        |
-+============+=============+===================================================================+=================+
-| Lundis     | 18:15-20:00 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle oben               | Epée longue     |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mardis     | 20:00-21:45 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle unten              | Assauts libres  |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mercredis  | 18:00-19:30 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Rapière         |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mercredis  | 19:30-21:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Epée longue     |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mercredis  | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Assauts         |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-
-
-
-:::
-
-::: {.content-visible when-profile="de"}
-## Wochentrainings
-
-::: {.callout-warning}
-Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch von 18:00 bis 20:00 Uhr im Nonnenweg 36.
-:::
-
-
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Tag        | Uhr         | Ort                                                               | Was             |
-+============+=============+===================================================================+=================+
-| Montags    | 18:15-20:00 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle oben               | Langschwert     |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Dienstags  | 20:00-21:45 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle unten              | Open sparring   |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mittwochs  | 18:00-19:30 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Rapier          |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mittwochs  | 19:30-21:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Langschwert     |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mittwochs  | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Sparring        |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
 
 :::
 
