@@ -3,6 +3,7 @@ title: ""
 format: html
 ---
 ::: {.column-margin}
+
 ::: {.content-visible when-profile="en"}
 ## Training Schedule
 :::
