@@ -5,12 +5,7 @@ format: html
 ::: {.column-margin}
 ::: {.content-visible when-profile="en"}
 ## Training Schedule
-
-::: {.callout-warning}
-During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
 :::
-
-
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Day        | Hour        | Where                                                             | What            |
 +============+=============+===================================================================+=================+
@@ -24,11 +19,9 @@ During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Wednesdays | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Sparring        |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-
-
-
+::: {.callout-warning}
+During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
 :::
-
 ::: {.content-visible when-profile="fr"}
 ## Entraînements
 
