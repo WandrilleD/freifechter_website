@@ -31,7 +31,7 @@ Wir sind ein Basler historischer Fechtclub, dessen Schwerpunkt hauptsächlich, a
 ## Training Schedule
 
 ::: {.callout-warning}
-During sommer vacation - June 29 to August 9 - Twe train on Wednesday 18:00-20:00 at Nonnenweg 36.
+During sommer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
 :::
 ### Training times during the sommer semester April-October
 
@@ -57,9 +57,7 @@ During sommer vacation - June 29 to August 9 - Twe train on Wednesday 18:00-20:0
 ## Entraînements
 
 ::: {.callout-warning}
-Durant l'été et les vacances les gymnases sont fermés et nous nous entraînons dans les parcs publics si la météo le permet.
-
-N'hésitez pas à nous contacter si vous voulez nous rejoindre!
+Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le mercredi de 18h00 à 20h00 au Nonnenweg 36.
 :::
 
 
@@ -85,8 +83,7 @@ N'hésitez pas à nous contacter si vous voulez nous rejoindre!
 ## Wochentrainings
 
 ::: {.callout-warning}
-Im Sommer sind die Turnhallen geschlossen und wir trainieren bei schönem Wetter in nahegelegenen Parks.
-Bitte kontaktiere uns, wenn du mitmachen möchtest!
+Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch von 18:00 bis 20:00 Uhr im Nonnenweg 36.
 :::
 
 
