@@ -84,7 +84,7 @@ Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch 
 
 ![](assets/Basilisk.png){width=120%}
 ![](assets/SFHCS Logo.png){width=120%}
-![](assets/LOGO_SWISSHEMA.png){style="floating margin=25ptx" width=60%}
+![](assets/LOGO_SWISSHEMA.png){style="floating margin=25ptx" width=120%}
 [![Ce club est partenaire officiel de la boutique Faits d'Armes](https://faitsdarmes.com/img/cms/partner-kit/black-whitebg.png)](https://www.faitsdarmes.com)
 
 :::
