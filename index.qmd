@@ -120,7 +120,7 @@ Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch 
 :::
 
 ::: {.img-float}
-![](assets/SFHCS-Magglingen 26-097.jpg){style="float: left; margin: 25px;" width=100%}
+![](assets/SFHCS-Magglingen 26-097.jpg){style="float: left; margin: 25px;" width=90%}
 :::
 
 ::: {.content-visible when-profile="en"}
