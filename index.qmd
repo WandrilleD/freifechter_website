@@ -93,15 +93,15 @@ Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch 
 ::: {style="font-size: 150%;"}
 
 ::: {.content-visible when-profile="en"}
-Train Historical European Martial Arts in the heart of Basel
+# Train Historical European Martial Arts in the heart of Basel
 :::
 
 ::: {.content-visible when-profile="fr"}
-Pratiquez les arts martiaux historiques européens au cœur de Bâle
+# Pratiquez les arts martiaux historiques européens au cœur de Bâle
 :::
 
 ::: {.content-visible when-profile="de"}
-Lerne Historisches Fechten im Herzen Basels
+# Lerne Historisches Fechten im Herzen Basels
 :::
 
 :::
