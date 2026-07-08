@@ -93,16 +93,15 @@ Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch 
 ::: {style="font-size: 150%;"}
 
 ::: {.content-visible when-profile="en"}
-We are a historical fencing club based in Basel focusing mainly, but not only, on late middle-age and early renaissance fencing.
+Train Historical European Martial Arts in the heart of Basel
 :::
 
 ::: {.content-visible when-profile="fr"}
-Nous sommes un club d'escrime historique, basés à Basel.
-Nous nous concentrons majoritairement, mais pas uniquement, sur l'escrime de la fin du moyen-âge et du début de la renaissance.
+Pratiquez les arts martiaux historiques européens au cœur de Bâle
 :::
 
 ::: {.content-visible when-profile="de"}
-Wir sind ein Basler historischer Fechtclub, dessen Schwerpunkt hauptsächlich, aber nicht ausschließlich, auf Fechten im Spätmittelalter und in der Frührenaissance.
+Lerne Historisches Fechten im Herzen Basels
 :::
 
 :::
