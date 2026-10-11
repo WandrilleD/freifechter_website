@@ -11,7 +11,7 @@ format: html
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Day        | Hour        | Where                                                             | What            |
 +============+=============+===================================================================+=================+
-| Mondays    | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Longsword class |
+| Mondays    | 18:00-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Longsword class |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Wednesdays | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Open & Rapier   |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
@@ -32,7 +32,7 @@ During summer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Jour       | Heures      | Lieu                                                              | Cours           |
 +============+=============+===================================================================+=================+
-| Lundi      | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Épée Longue     |
+| Lundi      | 18:00-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Épée Longue     |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Mercredi   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Libre & Rapier  |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
@@ -52,7 +52,7 @@ Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le 
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Tag        | Stunde      | Ort                                                               | Kurs            |
 +============+=============+===================================================================+=================+
-| Montag     | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Langschwert     |
+| Montag     | 18:00-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Langschwert     |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Mittwoch   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Offen & Rapier  |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
