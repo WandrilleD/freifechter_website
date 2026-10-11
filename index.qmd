@@ -52,9 +52,9 @@ Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le 
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Tag        | Stunde      | Ort                                                               | Kurs            |
 +============+=============+===================================================================+=================+
-| Montag     | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Épée Longue     |
+| Montag     | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Langschwert     |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mittwoch   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Libre & Rapier  |
+| Mittwoch   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Offen & Rapier  |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 
 ::: {.callout-warning}
