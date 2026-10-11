@@ -11,16 +11,11 @@ format: html
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 | Day        | Hour        | Where                                                             | What            |
 +============+=============+===================================================================+=================+
-| Mondays    | 18:15-20:00 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle oben               | Longsword class |
+| Mondays    | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Longsword class |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-| Tuesdays   | 20:00-21:45 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle unten              | Open sparring   |
+| Wednesdays | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Open & Rapier   |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-| Wednesdays | 18:00-19:30 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Rapier class    |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Wednesdays | 19:30-21:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Longsword class |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Wednesdays | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Sparring        |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
+
 
 ::: {.callout-warning}
 During summer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
@@ -35,17 +30,11 @@ During summer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00
 ## Entraînements
 
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-| Jour       | Heure       | Lieu                                                              | Activité        |
+| Jour       | Heures      | Lieu                                                              | Cours           |
 +============+=============+===================================================================+=================+
-| Lundis     | 18:15-20:00 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle oben               | Epée longue     |
+| Lundi      | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Épée Longue     |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mardis     | 20:00-21:45 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle unten              | Assauts libres  |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mercredis  | 18:00-19:30 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Rapière         |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mercredis  | 19:30-21:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Epée longue     |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mercredis  | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Assauts         |
+| Mercredi   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Libre & Rapier  |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 
 ::: {.callout-warning}
@@ -61,17 +50,11 @@ Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le 
 ## Wochentrainings
 
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-| Tag        | Uhr         | Ort                                                               | Was             |
+| Tag        | Stunde      | Ort                                                               | Kurs            |
 +============+=============+===================================================================+=================+
-| Montags    | 18:15-20:00 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle oben               | Langschwert     |
+| Montag     | 18:15-20:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Épée Longue     |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
-| Dienstags  | 20:00-21:45 | Theaterstrasse 12 <br>4051 Basel <br>Turnhalle unten              | Open sparring   |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mittwochs  | 18:00-19:30 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Rapier          |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mittwochs  | 19:30-21:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Langschwert     |
-+------------+-------------+-------------------------------------------------------------------+-----------------+
-| Mittwochs  | 21:00-22:00 | Kohlenberggasse 11<br>4055 Basel<br>Beruffachschule Turnhalle UG1 | Sparring        |
+| Mittwoch   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Libre & Rapier  |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 
 ::: {.callout-warning}
