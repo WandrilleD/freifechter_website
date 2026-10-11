@@ -17,9 +17,7 @@ format: html
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 
 
-::: {.callout-warning}
-During summer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00 at Nonnenweg 36.
-:::
+
 
 
 
@@ -37,9 +35,7 @@ During summer vacation - June 29 to August 9 - we train on Wednesday 18:00-20:00
 | Mercredi   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Libre & Rapier  |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 
-::: {.callout-warning}
-Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le mercredi de 18h00 à 20h00 au Nonnenweg 36.
-:::
+
 
 
 
@@ -57,9 +53,7 @@ Pendant les vacances d'été - du 29 juin au 9 août - nous nous entraînons le 
 | Mittwoch   | 18:00-20:00 | Bärschwilerstrasse 11<br>4053 Basel<br>Beruffachschule            | Offen & Rapier  |
 +------------+-------------+-------------------------------------------------------------------+-----------------+
 
-::: {.callout-warning}
-Während der Sommerferien vom 29. Juni bis 9. August trainieren wir am Mittwoch von 18:00 bis 20:00 Uhr im Nonnenweg 36.
-:::
+
 
 
 
